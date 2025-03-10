@@ -7,7 +7,7 @@
 <p>Responsive Layout: In this way, a compatible appearance is provided even on different screen sizes.</p>
 <p>Modern Design.</p>
 <p>In the project, asynchronous action functions of Redux-Thunk are used to dispatch data to the API and store. This ensures that the product information in the cart is updated simultaneously.</p>
-<p>We created our own database using JSON-Server as the API.</p>
+<p>I created my own database using JSON-Server as the API.</p>
 
 <h1>Technologies Used</h1>
 
